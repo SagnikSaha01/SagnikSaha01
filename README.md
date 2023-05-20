@@ -1,11 +1,13 @@
 
 <h1>Hi, I'm Sagnik! <br/><a>High School student interested in becoming a software developer</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-<!--
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+<h2>👨‍💻 Java Projects:</h2>
+
+- <b>Linked Lists</b>
+  - [Linked Lists Basics](https://github.com/SagnikSaha01/LinkedList)
+  - [Linked Lists Stacks & Queues]
+  - [Linked Lists Game]
+- <b>Binary Trees </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
