@@ -2,7 +2,7 @@
 <h1>Hi, I'm Sagnik! <br/><a>High School student interested in becoming a software developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -20,7 +20,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-
+-->
 
 <!--
 **SagnikSaha01/SagnikSaha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
