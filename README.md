@@ -5,8 +5,8 @@
 
 - <b>Linked Lists</b>
   - [Linked Lists Basics](https://github.com/SagnikSaha01/LinkedList)
-  - [Linked Lists Stacks & Queues]
-  - [Linked Lists Game]
+  - [Linked Lists Stacks & Queues](https://github.com/SagnikSaha01/StacksAndQueues)
+  - [Linked Lists Game](https://github.com/SagnikSaha01/OddGame)
 - <b>Binary Trees </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
