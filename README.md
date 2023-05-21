@@ -8,7 +8,10 @@
   - [Linked Lists Stacks & Queues](https://github.com/SagnikSaha01/StacksAndQueues)
   - [Linked Lists Game](https://github.com/SagnikSaha01/OddGame)
 - <b>Binary Trees </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Binary Tree Basics](https://github.com/SagnikSaha01/BinaryTreeBasics)
+  - [Binary Tree Balance Challenge](https://github.com/SagnikSaha01/BinaryTreeChallenge)
+  - [Expression Tree Basics](https://github.com/SagnikSaha01/ExpressionTreeBasics)
+  - [Expression Tree Challenge](https://github.com/SagnikSaha01/ExpressionTreeChallenge)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
@@ -21,8 +24,6 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-
--->
 
 <!--
 **SagnikSaha01/SagnikSaha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
