@@ -15,8 +15,6 @@
 - <b>Mini Projects</b>
   - [Scramble Tic Tac Toe](https://github.com/SagnikSaha01/ScrambleTicTacToe)
   - [Shut the Box Game](https://github.com/SagnikSaha01/ShutTheBox)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <!--
