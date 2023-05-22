@@ -1,7 +1,7 @@
 
-<h1>Hi, I'm Sagnik! <br/><a>I'm a First Year College student interested in becoming a software developer</a></h1>
+<h1>Hi, I'm Sagnik! <br/><a>I'm a First Year College student interested in becoming a Software Developer. Here is my Coding Portfolio!</a></h1>
 
- <h2>Large Projects: </h2>
+ <h2>⚡Large Projects: </h2>
 
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
