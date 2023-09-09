@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sagnik! <br/><a>I'm a Second Year College student interested in computer science!. Here is my Coding Portfolio!</a></h1>
+<h1>Hi, I'm Sagnik! <br/><a>I'm a Second Year College student interested in computer science. Here is my Coding Portfolio!</a></h1>
 
  <h2>⚡Large Projects: </h2>
 - [API Based Discord Bot]()
