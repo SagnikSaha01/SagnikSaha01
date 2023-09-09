@@ -9,14 +9,11 @@
 <h2>👨‍💻 Java Projects:</h2>
 
 - <b>Linked Lists</b>
-  - [Linked Lists Basics](https://github.com/SagnikSaha01/LinkedList)
   - [Linked Lists Stacks & Queues](https://github.com/SagnikSaha01/StacksAndQueues)
   - [Linked Lists Game](https://github.com/SagnikSaha01/OddGame)
 - <b>Binary Trees </b>
   - [Binary Tree Basics](https://github.com/SagnikSaha01/BinaryTreeBasics)
   - [Binary Tree Balance Challenge](https://github.com/SagnikSaha01/BinaryTreeChallenge)
-  - [Expression Tree Basics](https://github.com/SagnikSaha01/ExpressionTreeBasics)
-  - [Expression Tree Challenge](https://github.com/SagnikSaha01/ExpressionTreeChallenge)
 - <b>Mini Projects</b>
   - [Scramble Tic Tac Toe](https://github.com/SagnikSaha01/ScrambleTicTacToe)
   - [Shut the Box Game](https://github.com/SagnikSaha01/ShutTheBox)
