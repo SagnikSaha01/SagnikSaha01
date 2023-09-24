@@ -5,7 +5,7 @@
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
 - [Object Detection Machine Learning]()
-- [Research Paper Website]()
+- [Research Paper Website](https://github.com/SagnikSaha01/Open-Papers-Website)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
 
