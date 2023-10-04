@@ -4,7 +4,7 @@
  <h2>⚡Large Projects: </h2>
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
-- [Object Detection Machine Learning]()
+- [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
 - [Research Paper Website](https://github.com/SagnikSaha01/Open-Papers-Website)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
