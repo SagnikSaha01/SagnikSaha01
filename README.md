@@ -4,6 +4,7 @@
  <h2>⚡Large Projects: </h2>
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
+- [HackNC 2023 Project](https://github.com/shane1595042264/eco-sprout).
 - [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
 - [Research Paper Website](https://github.com/SagnikSaha01/Open-Papers-Website)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
