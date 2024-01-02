@@ -1,12 +1,11 @@
 
-<h1>Hi, I'm Sagnik! <br/><a>I'm a Second Year College student interested in computer science. Here is my Coding Portfolio!</a></h1>
+<h1>Hi, I'm Sagnik! <br/><a>I'm a current student at NC State studying computer science. Here is my Coding Portfolio!</a></h1>
 
  <h2>⚡Large Projects: </h2>
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
 - [HackNC 2023 Project](https://github.com/shane1595042264/eco-sprout).
 - [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
-- [Research Paper Website](https://github.com/SagnikSaha01/Open-Papers-Website)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
 
