@@ -12,6 +12,7 @@
 <h2>👨‍💻 Java Projects:</h2>
 
 - <b>College Projects</b>
+  - [Issue Manager](https://github.com/SagnikSaha01/Issue-Manager)
 - <b>Linked Lists</b>
   - [Linked Lists Stacks & Queues](https://github.com/SagnikSaha01/StacksAndQueues)
   - [Linked Lists Game](https://github.com/SagnikSaha01/OddGame)
