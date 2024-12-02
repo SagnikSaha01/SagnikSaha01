@@ -16,6 +16,7 @@
 - <b>College Projects</b>
   - [Issue Manager](https://github.com/SagnikSaha01/Issue-Manager)
   - [Task Manager](https://github.com/SagnikSaha01/Task-Manager)
+  <!--
 - <b>Linked Lists</b>
   - [Linked Lists Stacks & Queues](https://github.com/SagnikSaha01/StacksAndQueues)
   - [Linked Lists Game](https://github.com/SagnikSaha01/OddGame)
@@ -23,7 +24,7 @@
   - [Binary Tree Basics](https://github.com/SagnikSaha01/BinaryTreeBasics)
   - [Binary Tree Balance Challenge](https://github.com/SagnikSaha01/BinaryTreeChallenge)
 
-
+-->
 
 <!--
 **SagnikSaha01/SagnikSaha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
