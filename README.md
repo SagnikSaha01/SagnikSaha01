@@ -6,6 +6,7 @@
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
 - [HackNC 2023 Project](https://github.com/shane1595042264/eco-sprout)
 - [HackNC 2024 Project](https://github.com/AChakka/HackNc2024)
+- [Full Stack Music Playlist Generator]
 - [MERN Voting App](https://github.com/SagnikSaha01/Voting-App)
 - [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
