@@ -4,7 +4,7 @@
  <h2>⚡Large Projects: </h2>
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
-- [HackNCState 2025 Project: Opportunify](https://github.com/shane1595042264/eco-sprout)
+- [HackNCState 2025 Project: Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)
 - [HackNC 2023 Project: EcoSrpout](https://github.com/shane1595042264/eco-sprout)
 - [HackNC 2024 Project: StarDaze](https://github.com/AChakka/HackNc2024)
 - [Full Stack Music Playlist Generator](https://github.com/SagnikSaha01/Music-Playlist-Generator)
