@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Sagnik! <br/><a>I'm a current student at NC State studying computer science. Here is my Coding Portfolio!</a></h1>
 
- <h2>⚡Large Projects: </h2>
+ <h2>⚡Projects: </h2>
  
 - [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
 - [HackNCState 2025 Project: Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)
@@ -12,7 +12,7 @@
 - [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
 - [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
-
+<!--
 <h2>👨‍💻 Java Projects:</h2>
 
 - <b>College Projects</b>
