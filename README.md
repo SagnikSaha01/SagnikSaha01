@@ -7,6 +7,7 @@
 - [HackNCState 2025 Project: Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)
 - [HackNC 2023 Project: EcoSrpout](https://github.com/shane1595042264/eco-sprout)
 - [HackNC 2024 Project: StarDaze](https://github.com/AChakka/HackNc2024)
+- [BullsEye](https://github.com/SagnikSaha01/BullsEye)
 - [Full Stack Music Playlist Generator](https://github.com/SagnikSaha01/Music-Playlist-Generator)
 - [MERN Voting App](https://github.com/SagnikSaha01/Voting-App)
 - [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
