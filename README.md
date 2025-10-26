@@ -3,16 +3,12 @@
 
  <h2>⚡Projects: </h2>
  
-- [API Based Discord Bot](https://github.com/SagnikSaha01/Discord-Bot)
 - [HackNCState 2025 Project: Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)
 - [HackNC 2023 Project: EcoSprout](https://github.com/shane1595042264/eco-sprout)
 - [HackNC 2024 Project: StarDaze](https://github.com/AChakka/HackNc2024)
 - [HackNC_2025 Project: RePair](https://github.com/SagnikSaha01/HackNC25)
 - [BullsEye](https://github.com/SagnikSaha01/BullsEye)
 - [Full Stack Music Playlist Generator](https://github.com/SagnikSaha01/Music-Playlist-Generator)
-- [MERN Voting App](https://github.com/SagnikSaha01/Voting-App)
-- [Object Detection Machine Learning](https://github.com/SagnikSaha01/Machine-Learning)
-- [Beginner Chess Opening Guide](https://github.com/SagnikSaha01/ChessOpeningGuide)
 
 <!--
 <h2>👨‍💻 Java Projects:</h2>
