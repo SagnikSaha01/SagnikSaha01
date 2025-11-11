@@ -7,7 +7,7 @@
 - [HackNC 2023 Project: EcoSprout](https://github.com/shane1595042264/eco-sprout)
 - [HackNC 2024 Project: StarDaze](https://github.com/AChakka/HackNc2024)
 - [HackNC_2025 Project: RePair](https://github.com/SagnikSaha01/HackNC25)
-- [DukeAIHackathon Project: Reflectra](https://github.com/SagnikSaha01/Reflectra)
+- [DukeAI Hackathon Project: Reflectra](https://github.com/SagnikSaha01/Reflectra)
 - [BullsEye](https://github.com/SagnikSaha01/BullsEye)
 
 <!--
