@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Sagnik! <br/><a>I'm a current student at NC State studying computer science. Here is my Coding Portfolio!</a></h1>
+<h1>Hi, I'm Sagnik! <br/><a>I'm a current student at NC State studying computer science. Here are some projects I am proud of!</a></h1>
 
  <h2>⚡Projects: </h2>
  
