@@ -1,7 +1,7 @@
 # Hi, I'm Sagnik! 👋
 
 ## 🎓 About Me
-I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems. Currently working as a Full Stack Developer at NC State's IT Engineering Department and as a Software Engineer at the Liquid Rocketry Lab.
+I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
 
 ## 🚀 Featured Projects
 
