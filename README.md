@@ -5,9 +5,9 @@ I'm a Computer Science student at **NC State University** and am passionate abou
 
 ## 💻 Technical Skills
 - **Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
-- **Frameworks & Libraries:** React.js, Node.js, SpringBoot, ExpressJS, Flask, FastAPI, Vue.js, Laravel
+- **Frameworks & Libraries:** React.js, Node.js, SpringBoot, ExpressJS, Flask, FastAPI
 - **Databases & Tools:** MySQL, MongoDB, Git, Jenkins, Azure DevOps, Jira, Docker, Postman, JUnit
-- **APIs & Services:** Google Maps API, NewsAPI, FinnhubAPI, SerpAPI, ElevenLabs TTS/STT
+- **APIs & Services:** OpenAI API, Google Gemini API, Google Maps API, NewsAPI, FinnhubAPI, SerpAPI, ElevenLabs TTS/STT
 
 ## 🚀 Featured Projects
 
