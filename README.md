@@ -2,7 +2,48 @@
 
 ## 🎓 About Me
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
+## 💻 Technical Skills
 
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Tools & DevOps
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### APIs & AI Services
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-001733?style=for-the-badge)
+![NewsAPI](https://img.shields.io/badge/NewsAPI-2B3A42?style=for-the-badge)
+![SerpAPI](https://img.shields.io/badge/SerpAPI-000000?style=for-the-badge)
+![Finnhub](https://img.shields.io/badge/Finnhub-F21874?style=for-the-badge)
 ## 🚀 Featured Projects
 
 ### 🏆 Hackathon Projects
@@ -28,11 +69,6 @@ My first hackathon project: an interactive web game that introduces players to s
 **[BullsEye](https://github.com/SagnikSaha01/Bulls-Eye)** - *Machine Learning & Trading*  
 End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
 
-## 💻 Technical Skills
-- **Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
-- **Frameworks & Libraries:** React.js, Node.js, SpringBoot, ExpressJS, Flask, FastAPI
-- **Databases & Tools:** MySQL, MongoDB, Git, Jenkins, Azure DevOps, Jira, Docker, Postman, JUnit
-- **APIs & Services:** OpenAI API, Google Gemini API, Google Maps API, NewsAPI, FinnhubAPI, SerpAPI, ElevenLabs TTS/STT
 
 
 ## 📫 Let's Connect!
