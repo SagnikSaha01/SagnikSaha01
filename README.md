@@ -16,17 +16,18 @@ I'm a Computer Science student at **NC State University** and am passionate abou
 **[RePair: AI Home Assistant](https://github.com/SagnikSaha01/HackNC25)** - *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
 An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
 
+**[Reflectra](https://github.com/SagnikSaha01/Reflectra)** - *DukeAI Hackathon*  
+A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and React dashboard, backed by **Express** and **PostgreSQL** (Supabase). The application leverages a **RAG** (Retrieval-Augmented Generation) architecture with Pinecone and GPT-4o-mini to perform real-time semantic analysis on browsing habits.
+
 **[Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)** - *HackNCState 2025*  
-[Add a 1-2 sentence description of what Opportunify does and the key technologies used]
+A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
 
 **[StarDaze](https://github.com/AChakka/HackNc2024)** - *HackNC 2024*  
-[Add a 1-2 sentence description of StarDaze and what problem it solves]
+A web application utilizing **Node.js** and **React** to aggregate astronomical and weather data for hobbyist stargazers. Key features include a custom **D3.js** visualization engine and geolocation services powered by external APIs
 
 **[EcoSprout](https://github.com/shane1595042264/eco-sprout)** - *HackNC 2023*  
-[Add a 1-2 sentence description of EcoSprout's environmental focus]
+My first hackathon project: an interactive web game that introduces players to sustainable agriculture through resource management and 1v1 competition. Built from scratch using **React** to learn the fundamentals of state management and UI design.
 
-**[Reflectra](https://github.com/SagnikSaha01/Reflectra)** - *DukeAI Hackathon*  
-[Add a 1-2 sentence description highlighting the AI aspects]
 
 ### 💡 Personal Projects
 
