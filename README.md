@@ -25,7 +25,7 @@ My first hackathon project: an interactive web game that introduces players to s
 
 ### 💡 Personal Projects
 
-**[BullsEye](https://github.com/SagnikSaha01/BullsEye)** - *Machine Learning & Trading*  
+**[BullsEye](https://github.com/SagnikSaha01/Bulls-Eye)** - *Machine Learning & Trading*  
 End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
 
 ## 💻 Technical Skills
