@@ -3,12 +3,6 @@
 ## 🎓 About Me
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems. Currently working as a Full Stack Developer at NC State's IT Engineering Department and as a Software Engineer at the Liquid Rocketry Lab.
 
-## 💻 Technical Skills
-- **Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
-- **Frameworks & Libraries:** React.js, Node.js, SpringBoot, ExpressJS, Flask, FastAPI
-- **Databases & Tools:** MySQL, MongoDB, Git, Jenkins, Azure DevOps, Jira, Docker, Postman, JUnit
-- **APIs & Services:** OpenAI API, Google Gemini API, Google Maps API, NewsAPI, FinnhubAPI, SerpAPI, ElevenLabs TTS/STT
-
 ## 🚀 Featured Projects
 
 ### 🏆 Hackathon Projects
@@ -33,6 +27,14 @@ My first hackathon project: an interactive web game that introduces players to s
 
 **[BullsEye](https://github.com/SagnikSaha01/BullsEye)** - *Machine Learning & Trading*  
 End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
+
+## 💻 Technical Skills
+- **Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
+- **Frameworks & Libraries:** React.js, Node.js, SpringBoot, ExpressJS, Flask, FastAPI
+- **Databases & Tools:** MySQL, MongoDB, Git, Jenkins, Azure DevOps, Jira, Docker, Postman, JUnit
+- **APIs & Services:** OpenAI API, Google Gemini API, Google Maps API, NewsAPI, FinnhubAPI, SerpAPI, ElevenLabs TTS/STT
+
+
 ## 📫 Let's Connect!
 - **LinkedIn:** [https://www.linkedin.com/in/sagnik-saha-cs/]
 - **Email:** [sahasagnik999@gmail.com]
