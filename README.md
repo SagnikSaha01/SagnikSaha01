@@ -1,9 +1,7 @@
 # Hi, I'm Sagnik! 👋
 
 ## 🎓 About Me
-I'm a Computer Science student at **NC State University** (Class of 2027) with a **3.9 GPA** and Dean's List recognition. I'm passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems. Currently working as a Full Stack Developer at NC State's IT Engineering Department and as a Software Engineer at the Liquid Rocketry Lab.
-
-With experience at **MetLife** and multiple award-winning hackathon projects, I specialize in creating scalable web applications and leveraging AI/ML to build intelligent systems.
+I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems. Currently working as a Full Stack Developer at NC State's IT Engineering Department and as a Software Engineer at the Liquid Rocketry Lab.
 
 ## 💻 Technical Skills
 - **Languages:** Java, Python, JavaScript, C, SQL, HTML, CSS
@@ -34,25 +32,9 @@ An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**
 
 **[BullsEye](https://github.com/SagnikSaha01/BullsEye)** - *Machine Learning & Trading*  
 End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
-
-## 💼 Professional Experience
-
-**Full Stack Developer** @ *NC State IT Engineering* (Sept 2025 - Present)  
-Building internal College of Engineering web platforms with PHP, Laravel, and Vue.js. Increased backend test coverage by 30%+ and enhanced frontend accessibility.
-
-**Full Stack Engineering Intern** @ *MetLife* (May 2025 - Aug 2025)  
-Developed features for a React + Spring Boot retirement portal serving 100,000+ users. Integrated Google Maps API for address autocomplete and remediated 25+ ADA compliance issues.
-
-**Software Engineer** @ *Liquid Rocketry Lab* (Feb 2025 - Present)  
-Built Flask backend for real-time telemetry tracking across 50+ rocket tests. Enhanced React.js dashboard, improving engineer efficiency by 30%.
-
-**Undergraduate Teaching Assistant** @ *NC State University* (Aug 2024 - May 2025)  
-Supporting 600+ students in CS courses with Java, HTML, and CSS instruction.
-
 ## 📫 Let's Connect!
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your email address]
-- **Portfolio:** [Your website, if you have one]
+- **LinkedIn:** [https://www.linkedin.com/in/sagnik-saha-cs/]
+- **Email:** [sahasagnik999@gmail.com]
 
 ---
 
