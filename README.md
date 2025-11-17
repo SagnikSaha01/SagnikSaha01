@@ -2,8 +2,33 @@
 
 ## 🎓 About Me
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
-## 💻 Technical Skills
 
+## 🚀 Featured Projects
+
+### 🏆 Hackathon Projects
+
+**[RePair: AI Home Assistant](https://github.com/SagnikSaha01/HackNC25)** - *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
+An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
+
+**[Reflectra](https://github.com/SagnikSaha01/Reflectra)** - *DukeAI Hackathon*  
+A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and React dashboard, backed by **Express** and **PostgreSQL** (Supabase). The application leverages a **RAG** (Retrieval-Augmented Generation) architecture with Pinecone and GPT-4o-mini to perform real-time semantic analysis on browsing habits.
+
+**[Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)** - *HackNCState 2025*  
+A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
+
+**[StarDaze](https://github.com/AChakka/HackNc2024)** - *HackNC 2024*  
+A web application utilizing **Node.js** and **React** to aggregate astronomical and weather data for hobbyist stargazers. Key features include a custom **D3.js** visualization engine and geolocation services powered by external APIs
+
+**[EcoSprout](https://github.com/shane1595042264/eco-sprout)** - *HackNC 2023*  
+My first hackathon project: an interactive web game that introduces players to sustainable agriculture through resource management and 1v1 competition. Built from scratch using **React** to learn the fundamentals of state management and UI design.
+
+
+### 💡 Personal Projects
+
+**[BullsEye](https://github.com/SagnikSaha01/Bulls-Eye)** - *Machine Learning & Trading*  
+End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
+
+## 💻 Technical Skills
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -44,31 +69,6 @@ I'm a Computer Science student at **NC State University** and am passionate abou
 ![NewsAPI](https://img.shields.io/badge/NewsAPI-2B3A42?style=for-the-badge)
 ![SerpAPI](https://img.shields.io/badge/SerpAPI-000000?style=for-the-badge)
 ![Finnhub](https://img.shields.io/badge/Finnhub-F21874?style=for-the-badge)
-## 🚀 Featured Projects
-
-### 🏆 Hackathon Projects
-
-**[RePair: AI Home Assistant](https://github.com/SagnikSaha01/HackNC25)** - *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
-An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
-
-**[Reflectra](https://github.com/SagnikSaha01/Reflectra)** - *DukeAI Hackathon*  
-A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and React dashboard, backed by **Express** and **PostgreSQL** (Supabase). The application leverages a **RAG** (Retrieval-Augmented Generation) architecture with Pinecone and GPT-4o-mini to perform real-time semantic analysis on browsing habits.
-
-**[Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)** - *HackNCState 2025*  
-A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
-
-**[StarDaze](https://github.com/AChakka/HackNc2024)** - *HackNC 2024*  
-A web application utilizing **Node.js** and **React** to aggregate astronomical and weather data for hobbyist stargazers. Key features include a custom **D3.js** visualization engine and geolocation services powered by external APIs
-
-**[EcoSprout](https://github.com/shane1595042264/eco-sprout)** - *HackNC 2023*  
-My first hackathon project: an interactive web game that introduces players to sustainable agriculture through resource management and 1v1 competition. Built from scratch using **React** to learn the fundamentals of state management and UI design.
-
-
-### 💡 Personal Projects
-
-**[BullsEye](https://github.com/SagnikSaha01/Bulls-Eye)** - *Machine Learning & Trading*  
-End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
-
 
 
 ## 📫 Let's Connect!
