@@ -1,4 +1,9 @@
-# Hi, I'm Sagnik! 👋
+<div align="center">
+  <h1>Hi, I'm Sagnik! 👋</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Always+building;Always+learning;Always+growing" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 🎓 About Me
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
