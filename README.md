@@ -8,30 +8,27 @@
 ## 🎓 About Me
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
 
-## 🚀 Featured Projects
-
-### 🏆 Hackathon Projects
-**[VerdictX](https://github.com/noteesh/HackDuke)** - *HackDuke: Code For Good 2026 (🥇 Runner Up - Finance Track + Best Use of DigitalOcean)*  
+### 🏆 Hackathon Projects 
+**VerdictX** · [GitHub](https://github.com/noteesh/HackDuke) · [Devpost](https://devpost.com/software/verdictx) — *HackDuke: Code For Good 2026 (🥇 Runner Up - Finance Track + Best Use of DigitalOcean)*  
 An adversarial multi-agent AI system that fights algorithmic denials — loan rejections, insurance claims, housing applications — by deploying **5 specialized IBM Orchestrate agents** in sequential reasoning waves. A Bias Auditor, Precedent Agent, Legal Agent, and more each attack the denial from a different angle; when the Denial Defender concedes two or more arguments, the system auto-generates a court-ready appeal letter grounded in actual federal statute. Built with **React**, **Express**, **MongoDB**, **Auth0**, and **ElevenLabs** voice I/O.
  
-**[VeriVerse](https://devpost.com/software/veriverse)** - *HackNCState 2026 (🥇 Best Use of Presage)*  
+**VeriVerse** · [GitHub](https://github.com/SagnikSaha01/VeriVerse) · [Devpost](https://devpost.com/software/veriverse) — *HackNCState 2026 (🥇 Best Use of Presage)*  
 A real-time misinformation and deepfake detection **Manifest V3 Chrome extension** that intercepts short-form video content, fact-checks transcripts claim-by-claim using **Google Gemini**, and detects synthetic faces via the **Presage SDK** (C++ biometric analysis) — all without interrupting the scroll. A **FastAPI** backend with **Supabase** caching cut redundant API calls by 60% and brought end-to-end latency down to 2–3 seconds.
  
-**[SwarmShield](https://github.com/SagnikSaha01/SwarmShield)** - *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
+**SwarmShield** · [GitHub](https://github.com/SagnikSaha01/SwarmShield) — *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
 An agentic contamination detection system that cuts semiconductor cleanroom diagnosis from 4–8 hours to under 2 minutes, preventing up to $2.8M in wafer losses per incident. A 7-agent pipeline on **IBM watsonx Orchestrate** runs sequentially — tracing airflow, matching historical contamination signatures, and surfacing overdue maintenance — before generating a containment plan awaiting engineer approval. A **React + D3.js** dashboard streams each agent's live reasoning via **Server-Sent Events**.
  
-**[AURA: Automated Undereye Recovery Assessment](https://devpost.com/software/aura-automated-undereye-recovery-assessment)** - *HackUNCP (🥇 3rd Place Overall)*  
-A 30Hz in-browser eye-tracking pipeline using **MediaPipe Face Mesh** to screen for post-operative delirium, affecting 50% of elderly surgical patients. Measures 6 clinically validated ocular biomarkers via a **FastAPI** backend, integrating **Gemini 2.5 Flash** for longitudinal risk stratification with per-metric evidence citations. Designed a **MongoDB** schema to track baseline and session changes over time
-
-**[RePair: AI Home Assistant](https://github.com/SagnikSaha01/HackNC25)** - *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
+**AURA: Automated Undereye Recovery Assessment** · [GitHub](https://github.com/SagnikSaha01/AURA) · [Devpost](https://devpost.com/software/aura-automated-undereye-recovery-assessment) — *HackUNCP (🥇 3rd Place Overall)*  
+A 30Hz in-browser eye-tracking pipeline using **MediaPipe Face Mesh** to screen for post-operative delirium, affecting 50% of elderly surgical patients. Measures 6 clinically validated ocular biomarkers via a **FastAPI** backend, integrating **Gemini 2.5 Flash** for longitudinal risk stratification with per-metric evidence citations. Designed a **MongoDB** schema to track baseline and session changes over time.
+ 
+**RePair: AI Home Assistant** · [GitHub](https://github.com/SagnikSaha01/HackNC25) · [Devpost](https://devpost.com/software/repair-5ebgtw) — *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
 An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
-
-**[Reflectra](https://github.com/SagnikSaha01/Reflectra)** - *DukeAI Hackathon*  
+ 
+**Reflectra** · [GitHub](https://github.com/SagnikSaha01/Reflectra) · [Devpost](https://devpost.com/software/reflectra-ngvlpw) — *DukeAI Hackathon*  
 A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and React dashboard, backed by **Express** and **PostgreSQL** (Supabase). The application leverages a **RAG** (Retrieval-Augmented Generation) architecture with Pinecone and GPT-4o-mini to perform real-time semantic analysis on browsing habits.
-
-**[Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)** - *HackNCState 2025*  
+ 
+**Opportunify** · [GitHub](https://github.com/Abhinav-Avasarala/hack-nc-project) · [Devpost](https://devpost.com/software/opportunify) — *HackNCState 2025*  
 A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
-
 
 
 ### 💡 Personal Projects
