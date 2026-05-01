@@ -9,17 +9,17 @@
 I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
 
 ### 🏆 Hackathon Projects 
+**SwarmShield** · [GitHub](https://github.com/SagnikSaha01/SwarmShield) — *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
+An agentic contamination detection system that cuts semiconductor cleanroom diagnosis from 4–8 hours to under 2 minutes, preventing up to $2.8M in wafer losses per incident. A 7-agent pipeline on **IBM watsonx Orchestrate** runs sequentially — tracing airflow, matching historical contamination signatures, and surfacing overdue maintenance — before generating a containment plan awaiting engineer approval. A **React + D3.js** dashboard streams each agent's live reasoning via **Server-Sent Events**.
+
 **VerdictX** · [GitHub](https://github.com/noteesh/HackDuke) · [Devpost](https://devpost.com/software/verdictx) — *HackDuke: Code For Good 2026 (🥇 Runner Up - Finance Track + Best Use of DigitalOcean)*  
 An adversarial multi-agent AI system that fights algorithmic denials — loan rejections, insurance claims, housing applications — by deploying **5 specialized IBM Orchestrate agents** in sequential reasoning waves. A Bias Auditor, Precedent Agent, Legal Agent, and more each attack the denial from a different angle; when the Denial Defender concedes two or more arguments, the system auto-generates a court-ready appeal letter grounded in actual federal statute. Built with **React**, **Express**, **MongoDB**, **Auth0**, and **ElevenLabs** voice I/O.
  
-**VeriVerse** · [GitHub](https://github.com/SagnikSaha01/VeriVerse) · [Devpost](https://devpost.com/software/veriverse) — *HackNCState 2026 (🥇 Best Use of Presage)*  
-A real-time misinformation and deepfake detection **Manifest V3 Chrome extension** that intercepts short-form video content, fact-checks transcripts claim-by-claim using **Google Gemini**, and detects synthetic faces via the **Presage SDK** (C++ biometric analysis) — all without interrupting the scroll. A **FastAPI** backend with **Supabase** caching cut redundant API calls by 60% and brought end-to-end latency down to 2–3 seconds.
- 
-**SwarmShield** · [GitHub](https://github.com/SagnikSaha01/SwarmShield) — *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
-An agentic contamination detection system that cuts semiconductor cleanroom diagnosis from 4–8 hours to under 2 minutes, preventing up to $2.8M in wafer losses per incident. A 7-agent pipeline on **IBM watsonx Orchestrate** runs sequentially — tracing airflow, matching historical contamination signatures, and surfacing overdue maintenance — before generating a containment plan awaiting engineer approval. A **React + D3.js** dashboard streams each agent's live reasoning via **Server-Sent Events**.
- 
 **AURA: Automated Undereye Recovery Assessment** · [GitHub](https://github.com/noteesh/AURA-Advanced-Under-eye-Response-Assessment) · [Devpost](https://devpost.com/software/aura-automated-undereye-recovery-assessment) — *HackUNCP (🥇 3rd Place Overall)*  
 A 30Hz in-browser eye-tracking pipeline using **MediaPipe Face Mesh** to screen for post-operative delirium, affecting 50% of elderly surgical patients. Measures 6 clinically validated ocular biomarkers via a **FastAPI** backend, integrating **Gemini 2.5 Flash** for longitudinal risk stratification with per-metric evidence citations. Designed a **MongoDB** schema to track baseline and session changes over time.
+
+**VeriVerse** · [GitHub](https://github.com/SagnikSaha01/VeriVerse) · [Devpost](https://devpost.com/software/veriverse) — *HackNCState 2026 (🥇 Best Use of Presage)*  
+A real-time misinformation and deepfake detection **Manifest V3 Chrome extension** that intercepts short-form video content, fact-checks transcripts claim-by-claim using **Google Gemini**, and detects synthetic faces via the **Presage SDK** (C++ biometric analysis) — all without interrupting the scroll. A **FastAPI** backend with **Supabase** caching cut redundant API calls by 60% and brought end-to-end latency down to 2–3 seconds.
  
 **RePair: AI Home Assistant** · [GitHub](https://github.com/SagnikSaha01/HackNC25) · [Devpost](https://devpost.com/software/repair-5ebgtw) — *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
 An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
