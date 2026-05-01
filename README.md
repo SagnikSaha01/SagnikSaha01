@@ -11,6 +11,17 @@ I'm a Computer Science student at **NC State University** and am passionate abou
 ## 🚀 Featured Projects
 
 ### 🏆 Hackathon Projects
+**[VerdictX](https://github.com/noteesh/HackDuke)** - *HackDuke: Code For Good 2026 (🥇 Runner Up - Finance Track + Best Use of DigitalOcean)*  
+An adversarial multi-agent AI system that fights algorithmic denials — loan rejections, insurance claims, housing applications — by deploying **5 specialized IBM Orchestrate agents** in sequential reasoning waves. A Bias Auditor, Precedent Agent, Legal Agent, and more each attack the denial from a different angle; when the Denial Defender concedes two or more arguments, the system auto-generates a court-ready appeal letter grounded in actual federal statute. Built with **React**, **Express**, **MongoDB**, **Auth0**, and **ElevenLabs** voice I/O.
+ 
+**[VeriVerse](https://devpost.com/software/veriverse)** - *HackNCState 2026 (🥇 Best Use of Presage)*  
+A real-time misinformation and deepfake detection **Manifest V3 Chrome extension** that intercepts short-form video content, fact-checks transcripts claim-by-claim using **Google Gemini**, and detects synthetic faces via the **Presage SDK** (C++ biometric analysis) — all without interrupting the scroll. A **FastAPI** backend with **Supabase** caching cut redundant API calls by 60% and brought end-to-end latency down to 2–3 seconds.
+ 
+**[SwarmShield](https://github.com/SagnikSaha01/SwarmShield)** - *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
+An agentic contamination detection system that cuts semiconductor cleanroom diagnosis from 4–8 hours to under 2 minutes, preventing up to $2.8M in wafer losses per incident. A 7-agent pipeline on **IBM watsonx Orchestrate** runs sequentially — tracing airflow, matching historical contamination signatures, and surfacing overdue maintenance — before generating a containment plan awaiting engineer approval. A **React + D3.js** dashboard streams each agent's live reasoning via **Server-Sent Events**.
+ 
+**[AURA: Automated Undereye Recovery Assessment](https://devpost.com/software/aura-automated-undereye-recovery-assessment)** - *HackUNCP (🥇 3rd Place Overall)*  
+A 30Hz in-browser eye-tracking pipeline using **MediaPipe Face Mesh** to screen for post-operative delirium, affecting 50% of elderly surgical patients. Measures 6 clinically validated ocular biomarkers via a **FastAPI** backend, integrating **Gemini 2.5 Flash** for longitudinal risk stratification with per-metric evidence citations. Designed a **MongoDB** schema to track baseline and session changes over time
 
 **[RePair: AI Home Assistant](https://github.com/SagnikSaha01/HackNC25)** - *HackNC 2025 (🥇 1st Place - 2 Tracks)*  
 An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**, and **React** to analyze household damage images and provide instant repair insights. Features multimodal LLMs for real-time damage detection, voice interaction via ElevenLabs TTS/STT, and ARM-based ML model for contractor matching. Integrated SerpAPI for dynamic product recommendations.
@@ -21,11 +32,6 @@ A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and Re
 **[Opportunify](https://github.com/Abhinav-Avasarala/hack-nc-project)** - *HackNCState 2025*  
 A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
 
-**[StarDaze](https://github.com/AChakka/HackNc2024)** - *HackNC 2024*  
-A web application utilizing **Node.js** and **React** to aggregate astronomical and weather data for hobbyist stargazers. Key features include a custom **D3.js** visualization engine and geolocation services powered by external APIs
-
-**[EcoSprout](https://github.com/shane1595042264/eco-sprout)** - *HackNC 2023*  
-My first hackathon project: an interactive web game that introduces players to sustainable agriculture through resource management and 1v1 competition. Built from scratch using **React** to learn the fundamentals of state management and UI design.
 
 
 ### 💡 Personal Projects
