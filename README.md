@@ -26,15 +26,12 @@ An AI-powered home assistant leveraging **Google Gemini 2.5 Flash**, **FastAPI**
  
 **Reflectra** · [GitHub](https://github.com/SagnikSaha01/Reflectra) · [Devpost](https://devpost.com/software/reflectra-ngvlpw) — *DukeAI Hackathon*  
 A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and React dashboard, backed by **Express** and **PostgreSQL** (Supabase). The application leverages a **RAG** (Retrieval-Augmented Generation) architecture with Pinecone and GPT-4o-mini to perform real-time semantic analysis on browsing habits.
- 
-**Opportunify** · [GitHub](https://github.com/Abhinav-Avasarala/hack-nc-project) · [Devpost](https://devpost.com/software/opportunify) — *HackNCState 2025*  
-A full-stack event recommendation platform built with a **Next.js** frontend, a **Node.js/Express** backend, and a **Postgres SQL** database. This project's core involved designing a complex relational database schema and a RESTful API to serve personalized opportunities to students.
 
 
 ### 💡 Personal Projects
 
 **LineUp** · [GitHub](https://github.com/SagnikSaha01/lineup) — *Real-Time Office Hours Queue Platform*
-A production-grade queue management system built in **Go** and **React + TypeScript**, designed to eliminate chaotic office hours for TAs managing 600+ students. Features a **Redis sorted set** queue engine with **pub/sub broadcasting** for real-time position updates across concurrent WebSocket sessions. Deployed on **AWS** with **PostgreSQL**, **ElastiCache**, and a **GitHub Actions** CI/CD pipeline maintaining 80%+ test coverage.
+A queue management system built in **Go** and **React + TypeScript**, designed to eliminate chaotic office hours for TAs managing 600+ students. Features a **Redis sorted set** queue engine with **pub/sub broadcasting** for real-time position updates across concurrent WebSocket sessions. Deployed on **AWS** with **PostgreSQL**, **ElastiCache**, and a **GitHub Actions** CI/CD pipeline maintaining 80%+ test coverage.
 
 **BullsEye** · [GitHub](https://github.com/SagnikSaha01/Bulls-Eye) — *Machine Learning & Trading*  
 End-to-end ML pipeline combining real-time news scraping (**NewsAPI** + **newspaper3k**) with stock price data to predict short-term price movements across 100+ articles. Engineered NLP features from cleaned article text and price history to train classification models. Integrated **FinnhubAPI** for historical price labeling and **QuantConnect** for backtesting trading strategies.
