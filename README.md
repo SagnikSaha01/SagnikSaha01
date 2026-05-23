@@ -30,7 +30,7 @@ A digital wellness ecosystem featuring a **Manifest V3 Chrome extension** and Re
 
 ### 💡 Personal Projects
 
-**LineUp** · [GitHub](https://github.com/SagnikSaha01/lineup) — *Real-Time Office Hours Queue Platform*
+**LineUp** · [GitHub](https://github.com/SagnikSaha01/lineup) — *Real-Time Office Hours Queue Platform*  
 A queue management system built in **Go** and **React + TypeScript**, designed to eliminate chaotic office hours for TAs managing 600+ students. Features a **Redis sorted set** queue engine with **pub/sub broadcasting** for real-time position updates across concurrent WebSocket sessions. Deployed on **AWS** with **PostgreSQL**, **ElastiCache**, and a **GitHub Actions** CI/CD pipeline maintaining 80%+ test coverage.
 
 **BullsEye** · [GitHub](https://github.com/SagnikSaha01/Bulls-Eye) — *Machine Learning & Trading*  
