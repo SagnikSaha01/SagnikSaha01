@@ -6,7 +6,7 @@
 </div>
 
 ## 🎓 About Me
-I'm a Computer Science student at **NC State University** and am passionate about full-stack development, machine learning, and building innovative solutions that solve real-world problems.
+I'm a Computer Science student at **NC State University** and am passionate about full-stack development, artificial intelligence, and building innovative solutions that solve real-world problems.
 
 ### 🏆 Hackathon Projects 
 **SwarmShield** · [GitHub](https://github.com/SagnikSaha01/SwarmShield) — *IBM SkillsBuild Hackathon (🥇 1st Place Overall)*  
